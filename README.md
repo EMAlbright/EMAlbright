@@ -1,6 +1,6 @@
 <h1 align="center"> Ethan Albright 👋 </h1>
 <h2 align="center"> Applied Computing, Data Science, & Business Administration @ UWB </h2>
-<h1 align="center"> <a href="https://ethanalbright.vercel.app" target="_blank"> View My Portfolio In Space </a></h1>
+<h1 align="center"> <a href="https://ethanalbright.vercel.app" target="_blank"> Click To View My Portfolio </a></h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalbright&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
