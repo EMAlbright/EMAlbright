@@ -1,6 +1,6 @@
 <h1 align="center"> Ethan Albright 👋 </h1>
 <h2 align="center"> Applied Computing, Data Science, & Business Administration @ UWB </h2>
-<h1 align="center"> <a href="https://ethanalbright.vercel.app" target="_blank"> Click To View My Portfolio </a></h1>
+<h2 align="center"> <a href="https://ethanalbright.vercel.app" target="_blank"> Click To View My Portfolio </a></h2>
 <!--
 **EMAlbright/EMAlbright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
